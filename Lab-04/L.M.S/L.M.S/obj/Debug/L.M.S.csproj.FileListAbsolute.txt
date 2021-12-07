@@ -1,0 +1,11 @@
+F:\FORM\L.M.S\L.M.S\bin\Debug\L.M.S.exe.config
+F:\FORM\L.M.S\L.M.S\bin\Debug\L.M.S.exe
+F:\FORM\L.M.S\L.M.S\bin\Debug\L.M.S.pdb
+F:\FORM\L.M.S\L.M.S\obj\Debug\L.M.S.csproj.AssemblyReference.cache
+F:\FORM\L.M.S\L.M.S\obj\Debug\L.M.S.csproj.SuggestedBindingRedirects.cache
+F:\FORM\L.M.S\L.M.S\obj\Debug\L.M.S.Form1.resources
+F:\FORM\L.M.S\L.M.S\obj\Debug\L.M.S.Properties.Resources.resources
+F:\FORM\L.M.S\L.M.S\obj\Debug\L.M.S.csproj.GenerateResource.cache
+F:\FORM\L.M.S\L.M.S\obj\Debug\L.M.S.csproj.CoreCompileInputs.cache
+F:\FORM\L.M.S\L.M.S\obj\Debug\L.M.S.exe
+F:\FORM\L.M.S\L.M.S\obj\Debug\L.M.S.pdb
