@@ -1,0 +1,11 @@
+F:\FORM\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+F:\FORM\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+F:\FORM\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+F:\FORM\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.AssemblyReference.cache
+F:\FORM\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.SuggestedBindingRedirects.cache
+F:\FORM\Library Management System\Library Management System\obj\Debug\Library_Management_System.Form1.resources
+F:\FORM\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+F:\FORM\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+F:\FORM\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.CoreCompileInputs.cache
+F:\FORM\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+F:\FORM\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
