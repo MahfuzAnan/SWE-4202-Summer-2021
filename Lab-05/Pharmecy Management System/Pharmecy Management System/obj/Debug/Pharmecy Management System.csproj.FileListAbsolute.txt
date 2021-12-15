@@ -1,0 +1,11 @@
+F:\FORM\Pharmecy Management System\Pharmecy Management System\bin\Debug\Pharmecy Management System.exe.config
+F:\FORM\Pharmecy Management System\Pharmecy Management System\bin\Debug\Pharmecy Management System.exe
+F:\FORM\Pharmecy Management System\Pharmecy Management System\bin\Debug\Pharmecy Management System.pdb
+F:\FORM\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.csproj.AssemblyReference.cache
+F:\FORM\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.csproj.SuggestedBindingRedirects.cache
+F:\FORM\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy_Management_System.Form1.resources
+F:\FORM\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy_Management_System.Properties.Resources.resources
+F:\FORM\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.csproj.GenerateResource.cache
+F:\FORM\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.csproj.CoreCompileInputs.cache
+F:\FORM\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.exe
+F:\FORM\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.pdb
