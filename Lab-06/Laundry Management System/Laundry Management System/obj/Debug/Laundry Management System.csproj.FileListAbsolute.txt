@@ -1,0 +1,11 @@
+F:\FORM\Laundry Management System\Laundry Management System\bin\Debug\Laundry Management System.exe.config
+F:\FORM\Laundry Management System\Laundry Management System\bin\Debug\Laundry Management System.exe
+F:\FORM\Laundry Management System\Laundry Management System\bin\Debug\Laundry Management System.pdb
+F:\FORM\Laundry Management System\Laundry Management System\obj\Debug\Laundry Management System.csproj.AssemblyReference.cache
+F:\FORM\Laundry Management System\Laundry Management System\obj\Debug\Laundry Management System.csproj.SuggestedBindingRedirects.cache
+F:\FORM\Laundry Management System\Laundry Management System\obj\Debug\Laundry_Management_System.Form1.resources
+F:\FORM\Laundry Management System\Laundry Management System\obj\Debug\Laundry_Management_System.Properties.Resources.resources
+F:\FORM\Laundry Management System\Laundry Management System\obj\Debug\Laundry Management System.csproj.GenerateResource.cache
+F:\FORM\Laundry Management System\Laundry Management System\obj\Debug\Laundry Management System.csproj.CoreCompileInputs.cache
+F:\FORM\Laundry Management System\Laundry Management System\obj\Debug\Laundry Management System.exe
+F:\FORM\Laundry Management System\Laundry Management System\obj\Debug\Laundry Management System.pdb
