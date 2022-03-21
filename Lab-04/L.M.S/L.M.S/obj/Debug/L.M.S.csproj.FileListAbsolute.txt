@@ -9,3 +9,14 @@ F:\FORM\L.M.S\L.M.S\obj\Debug\L.M.S.csproj.GenerateResource.cache
 F:\FORM\L.M.S\L.M.S\obj\Debug\L.M.S.csproj.CoreCompileInputs.cache
 F:\FORM\L.M.S\L.M.S\obj\Debug\L.M.S.exe
 F:\FORM\L.M.S\L.M.S\obj\Debug\L.M.S.pdb
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-04\L.M.S\L.M.S\bin\Debug\L.M.S.exe.config
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-04\L.M.S\L.M.S\bin\Debug\L.M.S.exe
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-04\L.M.S\L.M.S\bin\Debug\L.M.S.pdb
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-04\L.M.S\L.M.S\obj\Debug\L.M.S.csproj.AssemblyReference.cache
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-04\L.M.S\L.M.S\obj\Debug\L.M.S.csproj.SuggestedBindingRedirects.cache
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-04\L.M.S\L.M.S\obj\Debug\L.M.S.Form1.resources
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-04\L.M.S\L.M.S\obj\Debug\L.M.S.Properties.Resources.resources
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-04\L.M.S\L.M.S\obj\Debug\L.M.S.csproj.GenerateResource.cache
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-04\L.M.S\L.M.S\obj\Debug\L.M.S.csproj.CoreCompileInputs.cache
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-04\L.M.S\L.M.S\obj\Debug\L.M.S.exe
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-04\L.M.S\L.M.S\obj\Debug\L.M.S.pdb

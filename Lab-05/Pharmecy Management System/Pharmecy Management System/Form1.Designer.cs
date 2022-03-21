@@ -288,6 +288,7 @@
             this.SELL_MEDICINE_CLEAR_button.TabIndex = 26;
             this.SELL_MEDICINE_CLEAR_button.Text = "CLEAR";
             this.SELL_MEDICINE_CLEAR_button.UseVisualStyleBackColor = true;
+            this.SELL_MEDICINE_CLEAR_button.Click += new System.EventHandler(this.SELL_MEDICINE_CLEAR_button_Click);
             // 
             // Current_Stock_ListBox
             // 

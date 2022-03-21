@@ -1,0 +1,22 @@
+C:\Users\CSE\Desktop\200042149\Course Registration System\bin\Debug\Course Registration System.exe.config
+C:\Users\CSE\Desktop\200042149\Course Registration System\bin\Debug\Course Registration System.exe
+C:\Users\CSE\Desktop\200042149\Course Registration System\bin\Debug\Course Registration System.pdb
+C:\Users\CSE\Desktop\200042149\Course Registration System\obj\Debug\Course Registration System.csproj.AssemblyReference.cache
+C:\Users\CSE\Desktop\200042149\Course Registration System\obj\Debug\Course Registration System.csproj.SuggestedBindingRedirects.cache
+C:\Users\CSE\Desktop\200042149\Course Registration System\obj\Debug\Course_Registration_System.Form1.resources
+C:\Users\CSE\Desktop\200042149\Course Registration System\obj\Debug\Course_Registration_System.Properties.Resources.resources
+C:\Users\CSE\Desktop\200042149\Course Registration System\obj\Debug\Course Registration System.csproj.GenerateResource.cache
+C:\Users\CSE\Desktop\200042149\Course Registration System\obj\Debug\Course Registration System.csproj.CoreCompileInputs.cache
+C:\Users\CSE\Desktop\200042149\Course Registration System\obj\Debug\Course Registration System.exe
+C:\Users\CSE\Desktop\200042149\Course Registration System\obj\Debug\Course Registration System.pdb
+G:\Course Registration System\bin\Debug\Course Registration System.exe.config
+G:\Course Registration System\bin\Debug\Course Registration System.exe
+G:\Course Registration System\bin\Debug\Course Registration System.pdb
+G:\Course Registration System\obj\Debug\Course Registration System.csproj.AssemblyReference.cache
+G:\Course Registration System\obj\Debug\Course Registration System.csproj.SuggestedBindingRedirects.cache
+G:\Course Registration System\obj\Debug\Course_Registration_System.Form1.resources
+G:\Course Registration System\obj\Debug\Course_Registration_System.Properties.Resources.resources
+G:\Course Registration System\obj\Debug\Course Registration System.csproj.GenerateResource.cache
+G:\Course Registration System\obj\Debug\Course Registration System.csproj.CoreCompileInputs.cache
+G:\Course Registration System\obj\Debug\Course Registration System.exe
+G:\Course Registration System\obj\Debug\Course Registration System.pdb

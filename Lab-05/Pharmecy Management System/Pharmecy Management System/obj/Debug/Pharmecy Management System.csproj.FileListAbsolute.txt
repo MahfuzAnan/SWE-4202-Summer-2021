@@ -9,3 +9,14 @@ F:\FORM\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy
 F:\FORM\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.csproj.CoreCompileInputs.cache
 F:\FORM\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.exe
 F:\FORM\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.pdb
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-05\Pharmecy Management System\Pharmecy Management System\bin\Debug\Pharmecy Management System.exe.config
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-05\Pharmecy Management System\Pharmecy Management System\bin\Debug\Pharmecy Management System.exe
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-05\Pharmecy Management System\Pharmecy Management System\bin\Debug\Pharmecy Management System.pdb
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-05\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.csproj.AssemblyReference.cache
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-05\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.csproj.SuggestedBindingRedirects.cache
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-05\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy_Management_System.Form1.resources
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-05\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy_Management_System.Properties.Resources.resources
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-05\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.csproj.GenerateResource.cache
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-05\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.csproj.CoreCompileInputs.cache
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-05\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.exe
+F:\C#\SWE 4202-Summer 2021\SWE-4202-Summer-2021\Lab-05\Pharmecy Management System\Pharmecy Management System\obj\Debug\Pharmecy Management System.pdb

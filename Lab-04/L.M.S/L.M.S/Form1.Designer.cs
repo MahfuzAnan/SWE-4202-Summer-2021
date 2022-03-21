@@ -416,6 +416,7 @@
             this.Show_S_Book_listbox.Name = "Show_S_Book_listbox";
             this.Show_S_Book_listbox.Size = new System.Drawing.Size(339, 251);
             this.Show_S_Book_listbox.TabIndex = 38;
+            this.Show_S_Book_listbox.SelectedIndexChanged += new System.EventHandler(this.Show_S_Book_listbox_SelectedIndexChanged);
             // 
             // Show_Article_listbox
             // 

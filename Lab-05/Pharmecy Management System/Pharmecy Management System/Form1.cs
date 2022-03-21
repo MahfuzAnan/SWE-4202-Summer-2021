@@ -110,5 +110,15 @@ namespace Pharmecy_Management_System
 
             MessageBox.Show("Cleared successfully!");
         }
+
+        private void SELL_MEDICINE_CLEAR_button_Click(object sender, EventArgs e)
+        {
+            Sell_Medicine_ID_Textbox.Text = string.Empty;
+            Sell_Medicine_Units_Textbox.Text = string.Empty;
+            Sell_Medicine_price_textbox.Text = string.Empty;
+
+
+            MessageBox.Show("Cleared successfully!");
+        }
     }
 }
