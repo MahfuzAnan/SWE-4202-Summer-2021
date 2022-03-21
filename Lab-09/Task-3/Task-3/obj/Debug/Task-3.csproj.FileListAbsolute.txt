@@ -1,0 +1,8 @@
+F:\FORM\Task-3\Task-3\bin\Debug\Task-3.exe.config
+F:\FORM\Task-3\Task-3\bin\Debug\Task-3.exe
+F:\FORM\Task-3\Task-3\bin\Debug\Task-3.pdb
+F:\FORM\Task-3\Task-3\obj\Debug\Task-3.csproj.AssemblyReference.cache
+F:\FORM\Task-3\Task-3\obj\Debug\Task-3.csproj.SuggestedBindingRedirects.cache
+F:\FORM\Task-3\Task-3\obj\Debug\Task-3.csproj.CoreCompileInputs.cache
+F:\FORM\Task-3\Task-3\obj\Debug\Task-3.exe
+F:\FORM\Task-3\Task-3\obj\Debug\Task-3.pdb
