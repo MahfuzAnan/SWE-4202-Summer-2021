@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4b84708-8b76-4792-868f-932a5ea76a23": {
+      "ProjectGuid": "a4b84708-8b76-4792-868f-932a5ea76a23",
+      "DisplayName": "Banking System",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
